@@ -1,8 +1,9 @@
 
 import React, { useState } from 'react'
 import './App.css';
-import Navbar from './components/Navbar.js'
-import Section from './components/Section.js';
+import Navbar from './components/Navbar.jsx'
+import Section from './components/Section.jsx';
+import Text from './components/Text.jsx';
 
 
 
@@ -11,6 +12,7 @@ export default function App() {
     <div>
       <Navbar/>
       <Section/>
+      <Text/>
     </div>
   )
 }

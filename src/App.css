@@ -259,6 +259,16 @@
 .card-size-4:hover{
   transform: scale(1.04);
 }
+.com-1{
+  margin-top: 7rem;
+  font-weight: 700;
+}
+.font-fam{
+  font-family: sans-serif;
+}
+.com-2{
+  color:gray;
+}
 
 
 
@@ -385,6 +395,9 @@
 
 .card-size-4:hover{
   transform: scale(1.04);
+}
+.font-fam{
+  margin-top: -5rem;
 }
 }
   
@@ -543,6 +556,12 @@
   .ele-2{
     font-size: 24px;
         margin-top: 2rem;
+  }
+  .com-1{
+
+  }
+  .com-2{
+    
   }
   
   }
